@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Ferrari"
+        android:textColor="@color/design_default_color_primary"
+        android:textSize="20dp"
+        android:textAlignment="center"
+        android:layout_marginTop="10dp"
+        android:id="@+id/cf_carModel"
+        ></TextView>
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/carpic"
+        android:id="@+id/cf_carImage"
+        android:layout_marginTop="4dp"
+        ></ImageView>
+
+
+    <TextView
+        android:id="@+id/cf_carPrice"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="200000 Rs"
+        android:textAllCaps="false"
+        android:textStyle="italic"
+        android:textSize="17dp"
+        android:padding="2dp"
+        android:layout_margin="5dp"
+        android:layout_marginTop="10dp"
+        android:textAlignment="center"
+        ></TextView>
+
+
+    <EditText
+        android:layout_marginTop="4dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/cf_buyerName"
+        android:textSize="15dp"
+        android:hint="Write your name"
+        ></EditText>
+
+    <EditText
+        android:layout_marginTop="4dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/cf_buyerPhone"
+        android:textSize="15dp"
+        android:hint="ContactNumber"
+        android:inputType="number"
+        ></EditText>
+
+    <Button
+        android:id="@+id/cfbutton_buy"
+        android:layout_margin="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:text="Buy this vechicle"
+        android:textAllCaps="false"
+        android:background="@drawable/button_background"
+        ></Button>
+
+
+
+
+</LinearLayout>
