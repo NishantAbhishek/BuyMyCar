@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "980776166857",
+    "firebase_url": "https://carshowroom-f00b7.firebaseio.com",
+    "project_id": "carshowroom-f00b7",
+    "storage_bucket": "carshowroom-f00b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980776166857:android:5f902808ea023e8086f418",
+        "android_client_info": {
+          "package_name": "com.example.buymycar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980776166857-h97etoara5h8m4u5abj1cddm004nq9g2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.buymycar",
+            "certificate_hash": "f97549cc2fc24e08ec898e57fb93df3333fe0678"
+          }
+        },
+        {
+          "client_id": "980776166857-m7ahcj7njr49vcuu48ahckgfmq32f3ik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjEBPK3g1PL2mY12CKp0a-QQTgRsy4IX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "980776166857-m7ahcj7njr49vcuu48ahckgfmq32f3ik.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980776166857:android:48c59f1aaafb9e0d86f418",
+        "android_client_info": {
+          "package_name": "com.example.carshowroom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980776166857-9tr8jikd80168doordjb8ru25g79amrk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.carshowroom",
+            "certificate_hash": "f97549cc2fc24e08ec898e57fb93df3333fe0678"
+          }
+        },
+        {
+          "client_id": "980776166857-m7ahcj7njr49vcuu48ahckgfmq32f3ik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjEBPK3g1PL2mY12CKp0a-QQTgRsy4IX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "980776166857-m7ahcj7njr49vcuu48ahckgfmq32f3ik.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
